@@ -4,7 +4,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="550" height="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<br><br>    🔭 I’m currently working on my Web development skills<br><br>    🌱 I’m currently learning React<br><br>    👯 I’m looking to collaborate on any open source projects using Javascript.<br><br>    👨‍💻 All of my projects are available at https://github.com/krystian2077?tab=repositories<br><br>    💬 Ask me about React, Node, Express, MongoDB<br><br>    📫 How to reach me krystian.potaczek07@gmail.com<br><br>    ⚡ Fun fact I also love to hear songs during coding.<br>
+<br><br>    🔭 I’m currently working on my Web development skills<br><br>    🌱 I’m currently learning React<br><br>    👯 I’m looking to collaborate on any open source projects using Javascript.<br><br>    👨‍💻 All of my projects are available at https://github.com/krystian2077?tab=repositories<br><br>    💬 Ask me about React,Next.js, Node, Express, MongoDB<br><br>    📫 How to reach me krystian.potaczek07@gmail.com<br><br>    ⚡ Fun fact I also love to hear songs during coding.<br>
 
 
 
