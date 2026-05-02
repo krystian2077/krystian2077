@@ -1,32 +1,252 @@
-<h1 align="center">Hi 👋, I'm Krystian Potaczek</h1>
-<h3 align="center">A passionate Full-Stack Developer from Poland.I have a keen interest in MERN stack and have a huge fascination with the inner workings of technology.</h3>
+<div align="center">
 
-# 💫 About Me:
-<img align="right" alt="Coding" width="550" height="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+# Hi, I'm Krystian Potaczek 👋
 
-<br><br>    🔭 I’m currently working on my Web development skills<br><br>    🌱 I’m currently learning Next.js<br><br>    👯 I’m looking to collaborate on any open source projects using Javascript.<br><br>    👨‍💻 All of my projects are available at https://github.com/krystian2077?tab=repositories<br><br>    💬 Ask me about React,Next.js, Node, Express, MongoDB<br><br>    📫 How to reach me krystian.potaczek07@gmail.com<br><br>    ⚡ Fun fact I also love to hear songs during coding.<br>
+### Junior Python / Django Developer  
+Backend-focused • Full-stack aware • AI-assisted workflow
 
+I build practical web applications based on real business problems, with a strong focus on backend architecture, REST APIs, databases and production-like development workflows.
 
-</br>
+<br />
 
-# 👨‍💻 My Portfolio page: https://portfolio-krystian.vercel.app/
+<a href="https://www.linkedin.com/in/krystian-potaczek-952968257/">
+  <img src="https://img.shields.io/badge/LinkedIn-Krystian%20Potaczek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:krystian.potaczek07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/krystian2077">
+  <img src="https://img.shields.io/badge/GitHub-krystian2077-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br />
+<br />
 
-</br>
+<img src="https://komarev.com/ghpvc/?username=krystian2077&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krystian2077&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=krystian2077&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2077&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krystian2077&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About me
+
+I'm a **Junior Python / Django Developer** focused on building backend-oriented full-stack web applications.
+
+My main stack is **Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker and Next.js**.  
+I like building systems that solve real user and business problems — not just technical exercises.
+
+Before fully focusing on software development, I worked in a computer and GSM store environment, where I supported individual and business customers, prepared technical quotations and learned how real service, sales and customer-support processes work.
+
+That experience strongly influences how I approach software development:
+
+> First I try to understand the user, the process and the business problem.  
+> Then I design the architecture, choose the right tools and build the solution.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗺️ StayMap Polska
+
+**Map-first accommodation booking platform for the Polish travel market.**
+
+StayMap Polska is a full-stack marketplace application for discovering and booking accommodations in Poland. The project combines map-based search, booking flow, host panel, content moderation, real-time chat, dynamic pricing and AI-powered search in Polish.
+
+**Highlights:**
+
+- map-first search experience,
+- PostgreSQL/PostGIS geospatial queries,
+- accommodation filtering and booking flow,
+- host panel and content moderation,
+- real-time chat and notifications,
+- dynamic pricing engine,
+- AI search based on natural language,
+- Google OAuth and JWT authentication,
+- backend and E2E testing,
+- working live demo.
+
+**Tech stack:**
+
+`Django 5` `DRF` `PostgreSQL` `PostGIS` `Redis` `Celery` `Channels` `WebSocket` `Next.js` `TypeScript` `Docker` `OpenAI API`
+
+<br />
+
+<a href="https://github.com/krystian2077/staymap-polska">
+  <img src="https://img.shields.io/badge/Repository-StayMap%20Polska-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🛠️ PRO-KOM Service System
+
+**Service management system for electronics repair workflows.**
+
+PRO-KOM Service System is a business application based on real repair service processes: device intake, issue description, quotation, repair status tracking, customer communication and employee/admin workflow.
+
+The project was inspired by real processes I learned while working in a computer and GSM store environment.
+
+**Highlights:**
+
+- customer, employee and admin panels,
+- repair request management,
+- repair status workflow,
+- quotations and change history,
+- user roles and permissions,
+- employee/admin dashboard,
+- audit log and activity history,
+- workflow automation,
+- Docker-based development setup.
+
+**Tech stack:**
+
+`Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `TypeScript` `Docker` `Nginx` `JWT` `RBAC`
+
+<br />
+
+<a href="https://github.com/krystian2077/prokom-system">
+  <img src="https://img.shields.io/badge/Repository-PRO--KOM%20System-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+
+<br />
+<br />
+
+### Databases & Async
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" />
+
+<br />
+<br />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+
+<br />
+<br />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,postman,vercel,aws" />
+
+<br />
+<br />
+
+### AI-assisted workflow
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge" />
+
+</div>
+
+---
+
+## ⚙️ Technologies I use in real projects
+
+| Area | Technologies |
+|---|---|
+| Backend | Python, Django, Django REST Framework, FastAPI, Flask |
+| Databases | PostgreSQL, PostGIS, Redis, SQLite |
+| Async / Background jobs | Celery, Celery Beat, Redis |
+| API | REST API, JWT, Swagger / OpenAPI |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Testing | pytest, pytest-django, Playwright |
+| DevOps | Docker, Docker Compose, Nginx, GitHub Actions |
+| AI workflow | OpenAI API, LangChain, Claude, ChatGPT, GitHub Copilot |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krystian2077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=krystian2077&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently focused on
+
+- building production-like Django / DRF applications,
+- improving backend architecture and API design,
+- PostgreSQL, transactions, indexing and query optimization,
+- testing, Docker and CI/CD,
+- using AI responsibly as a developer productivity tool,
+- preparing for Junior Python / Django Developer roles.
+
+---
+
+## 📚 Learning & background
+
+- Computer Science student — Business Application Programming specialization,
+- Python + Django + AI course — LearnIT,
+- Ready4AI course — LLMs, AI agents, prompt engineering, AI-assisted development,
+- technical books: Clean Code, The Pragmatic Programmer, Software Craftsman, TDD and algorithms,
+- practical experience in a computer/GSM store environment with real customer and business processes.
+
+---
+
+## 🧩 How I work
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Krystian Potaczek"
+        self.role = "Junior Python / Django Developer"
+        self.focus = [
+            "backend architecture",
+            "REST APIs",
+            "business applications",
+            "databases",
+            "clean and practical solutions",
+        ]
+
+    def build_software(self):
+        understand_problem()
+        design_solution()
+        implement_backend()
+        test_features()
+        deploy_project()
+        improve_iteratively()
