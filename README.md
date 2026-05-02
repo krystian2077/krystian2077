@@ -48,7 +48,7 @@ That experience strongly influences how I approach software development:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗺️ StayMap Polska
 
@@ -82,12 +82,12 @@ StayMap Polska is a full-stack marketplace application for discovering and booki
 <br />
 <br />
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://staymap-polska.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛠️ PRO-KOM Service System
 
@@ -122,8 +122,8 @@ The project was inspired by real processes I learned while working in a computer
 <br />
 <br />
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://prokomserwis.pl/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -143,9 +143,22 @@ The project was inspired by real processes I learned while working in a computer
 <br />
 <br />
 
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-0ea5e9?style=for-the-badge" />
+
+<br />
+<br />
+
 ### Databases & Async
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery%20Beat-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 
 <br />
 <br />
@@ -160,6 +173,15 @@ The project was inspired by real processes I learned while working in a computer
 ### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,postman,vercel,aws" />
+
+<br />
+<br />
+
+### Testing & Documentation
+
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger%20/%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 <br />
 <br />
@@ -194,7 +216,7 @@ The project was inspired by real processes I learned while working in a computer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krystian2077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krystian2077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
@@ -250,3 +272,32 @@ class Developer:
         test_features()
         deploy_project()
         improve_iteratively()
+```
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krystian-potaczek-952968257/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:krystian.potaczek07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/krystian2077">
+  <img src="https://img.shields.io/badge/GitHub-krystian2077-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building practical web applications with Python, Django and real business context.
+
+</div>
+
