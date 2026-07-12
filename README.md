@@ -1,11 +1,17 @@
 <div align="center">
 
-# Hi, I'm Krystian Potaczek 👋
+<h1 align="center">Hi, I'm Krystian Potaczek 👋</h1>
 
-### Junior Python / Django Developer  
-Backend-focused • Full-stack aware • AI-assisted workflow
+<h3 align="center">Junior Python / Django Developer</h3>
 
-I build practical web applications based on real business problems, with a strong focus on backend architecture, REST APIs, databases and production-like development workflows.
+<p align="center">
+  Backend-focused • Full-stack experience • Product-minded
+</p>
+
+<p align="center">
+  I build backend applications that solve real user and business problems —
+  from domain modeling and REST APIs to testing, deployment and production maintenance.
+</p>
 
 <br />
 
