@@ -36,19 +36,16 @@
 
 ## 👨‍💻 About me
 
-I'm a **Junior Python / Django Developer** focused on building backend-oriented full-stack web applications.
+I'm a Junior Python / Django Developer focused on building backend applications that solve real user and business problems.
 
-My main stack is **Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker and Next.js**.  
-I like building systems that solve real user and business problems — not just technical exercises.
+My core stack includes **Python, Django, Django REST Framework, PostgreSQL, Redis, Celery and Docker**. I work across the full development lifecycle — from requirements analysis, domain modeling and business logic to REST APIs, background processing, real-time communication, automated testing and deployment.
 
-Before fully focusing on software development, I worked in a computer and GSM store environment, where I supported individual and business customers, prepared technical quotations and learned how real service, sales and customer-support processes work.
+Backend development is my primary focus. At the same time, my experience with **React, Next.js and TypeScript** allows me to understand the complete flow of data across an application and collaborate effectively at the intersection of backend, frontend and product development.
 
-That experience strongly influences how I approach software development:
+I care about solutions that are maintainable, testable, deployable and driven by genuine user needs.
 
-> First I try to understand the user, the process and the business problem.  
-> Then I design the architecture, choose the right tools and build the solution.
-
----
+> First, understand the user, the process and the business problem.  
+> Then design the architecture, choose the right tools and build the solution.
 
 ## 🚀 Featured Projects
 
