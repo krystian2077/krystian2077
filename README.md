@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Krystian Potaczek 👋</h1>
 
-<h3 align="center">Junior Python / Django Developer</h3>
+<h3 align="center"> Python / Django Developer</h3>
 
 <p align="center">
   Backend-focused • Full-stack experience • Product-minded
